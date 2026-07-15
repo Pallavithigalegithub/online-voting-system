@@ -11,16 +11,6 @@ Online Voting System is a web-based application designed to facilitate electroni
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github( https://github.com/Steavo171/Online-Voting-System.git).
-
-    OR follow gitbash commands <br>
-
-    ```bash
-        cd C:\\xampp\htdocs\
-        git clone https://github.com/Steavo171/Online-Voting-System.git
-        
-    ```
-
 4. Extract files in C:\xampp\htdocs.
 
 5. Open link localhost/phpmyadmin
